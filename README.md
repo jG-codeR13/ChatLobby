@@ -1,4 +1,4 @@
-# ChatLobby
+# ChatOn
 A real-time chat room application in Flask using socketio.
 
 * __Multiple Rooms__: Using `Flask-Socketio` different rooms are created for different types of discussions.
