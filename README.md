@@ -6,7 +6,7 @@ A real-time chat room application in Flask using socketio.
 * __Live Chat__:  all messages are sent to the Python web server, and then broadcast back to all clients.
 * __Register/Login__: Using `flask-sqlalchemy` all users are registered and can login again with same username-password.
 
-![demo](https://github.com/bhu800/chit-chat-room/blob/master/Screenshots_gifs/demo5.gif)
+![demo](https://github.com/jG-codeR13/ChatLobby/tree/main/Screenshots_gifs)
 
 ## How to deploy ?
 
