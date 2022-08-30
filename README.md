@@ -6,7 +6,7 @@ A real-time chat room application in Flask using socketio.
 * __Live Chat__:  all messages are sent to the Python web server, and then broadcast back to all clients.
 * __Register/Login__: Using `flask-sql` all users are registered and can login again with same username-password.
 
-![demo](http://rchat-app.herokuapp.com/)
+[demo](http://rchat-app.herokuapp.com/)
 
 ## How to deploy ?
 
